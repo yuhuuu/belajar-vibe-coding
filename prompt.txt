@@ -1,0 +1,12 @@
+Buatkan issue.md, berisi planning untuk membuat ini:
+
+Buat project baru di folder ini
+
+Gunakan technology:
+- Bun
+- ElysiaJS
+- Drizzle
+- MySQL
+
+Jangan terlalu detail atau low level, tetapi cukup instruksikan secara high level.
+Nanti dokumen planning akan digunakan oleh AI model atau junior developer yang lebih murah untuk diimplementasikan.
